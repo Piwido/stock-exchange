@@ -76,6 +76,6 @@ gem 'faker'
 gem 'pundit'
 
 
-# front 
-gem 'bootstrap', '~> 5.3.3'
-gem 'jquery-rails'
+# API
+gem 'iex-ruby-client'
+
